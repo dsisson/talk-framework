@@ -12,7 +12,7 @@ This talk describes the rationale behind building a custom test automation frame
 The big picture context for this talk looks something like this:
 * A discussion of where tests come from, covering approaches to identifying things that should be tested, and how. You need a methodology for identifying and defining tests so that you have a queue of tests that could and should be automated.
 * How to design and build a custom test automation framework -- this talk ;)
-* A discussion of test case architecture, both manual and automated. Writing a test cases that does what you _think_ it does is a fundamental skill. Plus, parametrization!
+* A discussion of test case architecture, both manual and automated. Writing a test case that does what you _think_ it does is a fundamental skill. Plus, parametrization!
 
 
 ## The Deck
