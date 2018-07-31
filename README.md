@@ -19,10 +19,9 @@ The big picture context for this talk looks something like this:
 You can access the deck in:
 * Apple keynote
 * a PDF version
-* HTML
 
 
 ## Colophon
-The visual design for this deck was graciously provided by Adia Sisson.
+The visual design for this deck was graciously provided by Adia Sisson, who swears that this design is optimized for human cognition.
 
 
